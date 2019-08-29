@@ -1,0 +1,7 @@
+Flask
+flask-cors
+peewee
+Flask-JWT
+PyMySQL
+PyJWT
+requests
