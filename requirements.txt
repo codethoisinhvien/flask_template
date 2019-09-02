@@ -5,3 +5,5 @@ Flask-JWT
 PyMySQL
 PyJWT
 requests
+wheel
+gunicorn
