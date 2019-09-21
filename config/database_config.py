@@ -1,4 +1,4 @@
-database_name = "ooad"
+database_name = "web_19_20"
 user_name = "root"
 password = ""
 host = "localhost"
